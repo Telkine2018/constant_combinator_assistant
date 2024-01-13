@@ -1,0 +1,14 @@
+{
+  "name": "constant_combinator_assistant",
+  "version": "1.0.0",
+  "title": "Constant combinator assistant",
+  "author": "Telkine2018",
+  "contact": "",
+  "homepage": "",
+  "description": "A tool to help managing a set of constant combinators",
+  "factorio_version": "1.1",
+  "dependencies": [
+		"base >= 1.1",
+		"flib >= 0.8.2"
+	]
+}
